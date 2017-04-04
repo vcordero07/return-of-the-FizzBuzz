@@ -8,3 +8,7 @@ For each element in the FizzBuzz sequence, your code should insert an element in
     </div>
 
 If the element's content is the word "fizz", the div with .fizz-buzz-item should also get the class .fizz applied. If the element's content is the word "buzz" it should get the class ".buzz" applied. And if its content is the word "fizzbuzz" it should get the class "fizzbuzz" applied.
+
+
+JSBIN.com
+https://jsbin.com/weyucuh/edit?html,css,js,console,output
